@@ -6,7 +6,7 @@ My core expertise includes .NET Core, C#, ASP.NET MVC, Microservices, Azure Clou
  I'm currently exploring microservices architecture, cloud-native development, and contributing to full-stack projects like Superfan Tees – A CSK Fan Store, where I use React + .NET Core + Azure to build production-ready applications.
  I enjoy designing clean architecture, working with CI/CD pipelines (Azure DevOps), writing unit-tested code (MSTest/NUnit), and diving deep into system design and cloud-native patterns.
   Always curious, always improving — I’m ready to learn anything new that helps me build better software and grow as an engineer.
-<--
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -30,7 +30,7 @@ My core expertise includes .NET Core, C#, ASP.NET MVC, Microservices, Azure Clou
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
---/>
+-->
   <h2>Certifications</h2>
 
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/18de8859-e629-4a0e-a8c3-716df2fc121c/linked_in_profile))
