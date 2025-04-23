@@ -11,7 +11,7 @@ My core expertise includes .NET Core, C#, ASP.NET MVC, Microservices, Azure Clou
 
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/18de8859-e629-4a0e-a8c3-716df2fc121c/linked_in_profile))
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/ce48a3da-9541-4252-ad4e-dec2ea63b966/linked_in_profile)
-- 
+
 <!--<h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
