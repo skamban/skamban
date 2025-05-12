@@ -1,56 +1,45 @@
-<h1>Hi, I'm Sruthi Kamban! <br/><a href="https://github.com/skamban">Programmer | Tech Blogger </a>, <a href="https://www.linkedin.com/in/skamban/">Passionate Full Stack Developer | .NET | Azure | Microservices</a></h1>
+<h1>Hi, I'm Sruthi Kamban! <br/><a href="https://github.com/skamban">Programmer | Tech Blogger | </a> <a href="https://www.linkedin.com/in/skamban/">Passionate Full Stack Developer | ASP.NET Core | c# | Azure | Microservices</a></h1>
 
-<h2>👨‍💻 About Me</h2>
-I'm a .NET Full Stack Developer. I’m passionate about solving real-world problems through code, and I strongly believe in continuous learning and staying current with the latest in tech.
-My core expertise includes .NET Core, C#, ASP.NET MVC, Microservices, Azure Cloud Services, SQL Server, and modern frontend frameworks like React. I’ve worked extensively on enterprise-grade systems, secure browser-based applications, and system modernization projects.
- I'm currently exploring microservices architecture, cloud-native development, and contributing to full-stack projects like Superfan Tees – A _CSK Fan Store, where I use React + .NET Core + Azure to build production-ready applications.
- I enjoy designing clean architecture, working with CI/CD pipelines (Azure DevOps), writing unit-tested code (MSTest/NUnit), and diving deep into system design and cloud-native patterns.
-  Always curious, always improving — I’m ready to learn anything new that helps me build better software and grow as an engineer.
+---
 
-  <h2>Certifications</h2>
+### 💼 What I Do
 
-- [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/18de8859-e629-4a0e-a8c3-716df2fc121c/linked_in_profile)
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/ce48a3da-9541-4252-ad4e-dec2ea63b966/linked_in_profile)
+- 🔧 Build full-stack enterprise applications with clean, maintainable code
+- ☁️ Deploy and manage services using Azure DevOps, CI/CD, Docker, and Kubernetes
+- 🔒 Design secure platforms for high-stakes, compliance-driven environments
+- 👩‍🏫 Mentor junior developers and lead development best practices
+- 🛠️ Modernize legacy systems and architect scalable microservices
 
-<!--<h2>Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🛠 Tech Stack
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
--->
+- **Backend**: C#, ASP.NET Core, Web API, .NET 6, Entity Framework
+- **Frontend**: JavaScript, React, Angular, HTML/CSS
+- **Database**: SQL Server, T-SQL, Stored Procedures
+- **DevOps**: Azure DevOps, Git, Docker, CI/CD
+- **Testing**: NUnit, MSTest
+- **Cloud**: Azure Functions, Service Bus, Logic Apps
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✍️ I Write About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [Dev Journal](https://github.com/skamban/dev-journal) for articles on:
+- .NET architecture and full stack tips
+- Lessons from legacy code to microservices
+- Real-world development experiences and advice
 
-<!--
-**skamban/skamban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/sruthi-kamban-22264674)
+- 🧠 [Hashnode Blog](https://sruthidevs.hashnode.dev)
+- 💌 Email: sruthi_kamban@outlook.com
+
+---
+
+### 🚀 Currently Open to
+
+Senior .NET Full Stack Developer roles (Remote or Relocation)  
