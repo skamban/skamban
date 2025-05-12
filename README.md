@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sruthi Kamban! <br/><a href="https://github.com/skamban">Programmer</a>, <a href="https://www.linkedin.com/in/skamban/">Passionate Full Stack Developer | .NET | Azure | Microservices</a></h1>
+<h1>Hi, I'm Sruthi Kamban! <br/><a href="https://github.com/skamban">Programmer | Tech Blogger </a>, <a href="https://www.linkedin.com/in/skamban/">Passionate Full Stack Developer | .NET | Azure | Microservices</a></h1>
 
 <h2>👨‍💻 About Me</h2>
 I'm a .NET Full Stack Developer. I’m passionate about solving real-world problems through code, and I strongly believe in continuous learning and staying current with the latest in tech.
